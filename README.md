@@ -23,6 +23,16 @@ Former Corporate Finance professional turned Data Engineer. I build scalable dat
 🔹 **Advanced SQL** - Window functions, query optimization, dimensional modeling  
 🔹 **MLOps** - Model versioning, CI/CD for ML pipelines, monitoring
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=morganmadelaine&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=morganmadelaine&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 ## 🛠️ Tech Stack
 
 **Data Engineering:** SQL • Python • dbt • BigQuery • Apache Spark  
